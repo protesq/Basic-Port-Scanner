@@ -1,7 +1,7 @@
 
 # Port Tarayıcı
 
-Bu, hedef IP adresinin ilk 1024 portunu taramak için tasarlanmış basit bir Python tabanlı port tarayıcıdır. 
+Bu repo eğitim amaçlı yapılmıştır. Hedef IP adresinin ilk 1024 portunu taramak için tasarlanmış basit bir Python tabanlı port tarayıcıdır. 
 Script, daha hızlı tarama için çoklu iş parçacığı (threading) kullanır ve belirtilen hedefte açık portları raporlar.
 
 ## Özellikler
