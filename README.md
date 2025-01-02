@@ -17,7 +17,7 @@ Script, daha hızlı tarama için çoklu iş parçacığı (threading) kullanır
 ## Kullanım
 1. Script'i çalıştırın:
     ```
-    python port_tarayici.py
+    python portscanner.py
     ```
 3. İstenildiğinde hedef IP adresini girin.
 
